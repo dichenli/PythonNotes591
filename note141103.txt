@@ -1,0 +1,19 @@
+//overwrite:
+int foo (String, int);
+int foo (int);
+int foo (int, String); 
+
+
+class Dog {
+	void bark() {
+		//contents
+	}
+}
+
+class Collie extends Dog {
+	
+}
+
+class Chihuahua () {
+	
+}

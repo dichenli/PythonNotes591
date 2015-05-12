@@ -1,0 +1,6 @@
+Inner classes (class defined inside class)
+4 kinds:
+member class
+local class
+static member class
+anonymous
